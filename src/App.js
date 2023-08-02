@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} clnpmassName="App-logo" alt="logo" />
         <p>
           Hello world !
         </p>
@@ -18,6 +18,10 @@ function App() {
         >
           Learn React Here
         </a>
+        <p>
+          
+        </p>
+        <button>This is a Button</button>
       </header>
     </div>
   );
